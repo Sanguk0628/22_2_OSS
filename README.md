@@ -1,2 +1,11 @@
-# 22_2_OSS
-2-2 오픈소프트웨어
+## 22_2_OSS
+#### 21102076 박상욱
+
+> "Life is too short, You need Python."
+
+
+
+
+* Jump to Python 
+
+* MarkDown
